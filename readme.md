@@ -36,7 +36,8 @@ The scenario outlined in this tutorial assumes that you already have the followi
 
 * [An Azure AD tenant](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant) 
 * A user account in Azure AD with [permission](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles) to configure provisioning (for example, Application Administrator, Cloud Application administrator, Application Owner, or Global Administrator). 
-* `**[Please add your Prerequisites here]**`
+* A [Proware](https://www.metaware.nl/Proware) subscription
+* A user account in Proware with Administrator access
 
 ## Step 1. Plan your provisioning deployment
 1. Learn about [how the provisioning service works](https://docs.microsoft.com/azure/active-directory/manage-apps/user-provisioning).
