@@ -45,7 +45,10 @@ The scenario outlined in this tutorial assumes that you already have the followi
 
 ## Step 2. Configure Proware to support provisioning with Azure AD
 
-### `**[Please add your app's configuration steps here]**`
+1. Sign in to your Proware application. Select **Contol panel**, then select **Contol panel settings**.
+2. Scroll down to **User Provisioning**, then **enable** User Provisioning. 
+3. Click on the button **Create bearer token** and copy the **Token** and save this for step 5
+4. Copy the **Tenant URL** and save this for step 5.
 
 ## Step 3. Add Proware from the Azure AD application gallery
 
